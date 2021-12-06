@@ -1,0 +1,317 @@
+# Copyright (C) 2018 ThemeFarmer
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Tools\n"
+"Report-Msgid-Bugs-To: https://www.themefarmer.com \n"
+"POT-Creation-Date: 2021-08-31 10:54+0530\n"
+"PO-Revision-Date: 2021-08-31 10:40+0530\n"
+"Last-Translator: themefarmer.com \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: woo-tools.php:42 woo-tools.php:247
+#: admin/option-pages/dashboard-options.php:8
+#: modules/wishlist/php/class-wishlist-widget.php:17
+msgid "Wishlist"
+msgstr ""
+
+#: woo-tools.php:43 admin/option-pages/dashboard-options.php:9
+msgid "Wishlist for WooCommerce"
+msgstr ""
+
+#: woo-tools.php:49 woo-tools.php:258
+#: admin/option-pages/dashboard-options.php:14
+#: admin/option-pages/quickview-options.php:14
+#: includes/tfwctools-template-functions.php:39
+#: modules/quick-view/php/class-quick-view.php:89
+msgid "Quick View"
+msgstr ""
+
+#: woo-tools.php:50 admin/option-pages/dashboard-options.php:15
+msgid "Quick View for WooCommerce Products"
+msgstr ""
+
+#: woo-tools.php:56 woo-tools.php:256
+#: admin/option-pages/compare-options.php:14
+#: admin/option-pages/dashboard-options.php:20
+#: includes/tfwctools-template-functions.php:22
+#: modules/compare/php/class-compare.php:300
+#: templates/compare-quick-model.php:16
+msgid "Compare"
+msgstr ""
+
+#: woo-tools.php:57 admin/option-pages/dashboard-options.php:21
+msgid "Compare for WooCommerce Products"
+msgstr ""
+
+#: woo-tools.php:63
+msgid "Ajax Search"
+msgstr ""
+
+#: woo-tools.php:64
+msgid "Ajax Search for WooCommerce"
+msgstr ""
+
+#: woo-tools.php:70
+msgid "Floating Cart"
+msgstr ""
+
+#: woo-tools.php:71
+msgid "Floating Cart for WooCommerce"
+msgstr ""
+
+#: woo-tools.php:77
+msgid "Smart Variation Swatches"
+msgstr ""
+
+#: woo-tools.php:78
+msgid "Smart Variation Swatches for WooCommerce"
+msgstr ""
+
+#: woo-tools.php:246
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr ""
+
+#: woo-tools.php:257 admin/option-pages/wishlist-options.php:15
+#: includes/tfwctools-template-functions.php:4
+msgid "Add To Wishlist"
+msgstr ""
+
+#: admin/admin-init.php:24 admin/admin-init.php:25
+msgid "WooCommerce Tools"
+msgstr ""
+
+#: admin/admin-init.php:32
+msgid "Dashboard"
+msgstr ""
+
+#: admin/option-pages/compare-options.php:5
+#: admin/option-pages/quickview-options.php:5
+#: admin/option-pages/wishlist-options.php:5
+msgid "settings saved successfully"
+msgstr ""
+
+#: admin/option-pages/compare-options.php:23
+#: admin/option-pages/quickview-options.php:22
+#: admin/option-pages/wishlist-options.php:40
+msgid "Button Text"
+msgstr ""
+
+#: admin/option-pages/compare-options.php:27
+#: admin/option-pages/quickview-options.php:26
+#: admin/option-pages/wishlist-options.php:44
+msgid "Button Icon"
+msgstr ""
+
+#: admin/option-pages/compare-options.php:31
+#: admin/option-pages/quickview-options.php:30
+#: admin/option-pages/wishlist-options.php:48
+msgid "Show icon"
+msgstr ""
+
+#: admin/option-pages/compare-options.php:38
+#: admin/option-pages/quickview-options.php:37
+#: admin/option-pages/wishlist-options.php:54
+msgid "Show button on product list"
+msgstr ""
+
+#: admin/option-pages/compare-options.php:42
+#: admin/option-pages/wishlist-options.php:58
+msgid "Show button on single product"
+msgstr ""
+
+#: admin/option-pages/dashboard-options.php:28
+msgid "WooCommerce Toos Dashboard"
+msgstr ""
+
+#: admin/option-pages/wishlist-options.php:24
+msgid "Wishlist Page"
+msgstr ""
+
+#: admin/option-pages/wishlist-options.php:28
+msgid "Select Wishlist Page"
+msgstr ""
+
+#: admin/option-pages/wishlist-options.php:34
+msgid ""
+"Make sure page content have <strong>[tfwc_tool_wishilst]</strong> Shortcode "
+"to show wishlist"
+msgstr ""
+
+#: modules/ajax-search/php/class-ajax-search-widget.php:15
+msgid "Ajax Search for woocommerce"
+msgstr ""
+
+#: modules/ajax-search/php/class-ajax-search-widget.php:17
+msgid "Ajax Product Search"
+msgstr ""
+
+#: modules/ajax-search/php/class-ajax-search-widget.php:36
+msgid "Search "
+msgstr ""
+
+#: modules/ajax-search/php/class-ajax-search-widget.php:36
+msgid "Search for:"
+msgstr ""
+
+#: modules/ajax-search/php/class-ajax-search.php:68
+#, php-format
+msgid "No Result for %s. Click here to search"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:166
+#: modules/compare/php/class-compare.php:213
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:123
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:176
+msgid "Remove"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:189
+msgid "Add to cart"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:190
+msgid "Description"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:191
+msgid "Availability"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:192
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:40
+msgid "Color"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:193
+msgid "Sku"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:194
+msgid "Weight"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:195
+msgid "Dimensions"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:248
+msgid "In stock"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:250
+msgid "Out of stock"
+msgstr ""
+
+#: modules/floating-cart/php/class-floating-cart.php:56
+msgid "Cart"
+msgstr ""
+
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:41
+msgid "Image"
+msgstr ""
+
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:42
+msgid "Label"
+msgstr ""
+
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:43
+msgid "Radio"
+msgstr ""
+
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:122
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:175
+msgid "Select image"
+msgstr ""
+
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:187
+msgid "Preview"
+msgstr ""
+
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:251
+#: modules/smart-variation-swatches/php/class-smart-variation-swatches.php:275
+msgid "Choose an option"
+msgstr ""
+
+#: modules/wishlist/php/class-wishlist-widget.php:15
+msgid "Display the customer shopping wishlist."
+msgstr ""
+
+#: modules/wishlist/php/class-wishlist.php:456
+msgid "Add to Wishlist"
+msgstr ""
+
+#: templates/floating-cart.php:50
+msgid "Available on backorder"
+msgstr ""
+
+#: templates/floating-cart.php:70
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: templates/floating-cart.php:70
+msgid "Quantity"
+msgstr ""
+
+#: templates/floating-cart.php:83
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: templates/floating-cart.php:107
+msgid "Remove this item"
+msgstr ""
+
+#: templates/floating-cart.php:124
+msgid "Checkout"
+msgstr ""
+
+#: templates/floating-cart.php:134
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: templates/wishlist-empty.php:2
+msgid "Wishlist is Empty"
+msgstr ""
+
+#: templates/wishlist-mini.php:57
+msgid "Items"
+msgstr ""
+
+#: templates/wishlist-mini.php:60
+msgid "View Wishlist"
+msgstr ""
+
+#: templates/wishlist-mini.php:64
+msgid "No products in the wishlist"
+msgstr ""
+
+#: templates/wishlist.php:29
+msgid "Product Name"
+msgstr ""
+
+#: templates/wishlist.php:30 templates/wishlist.php:71
+msgid "Price"
+msgstr ""
+
+#: templates/wishlist.php:31
+msgid "Stock Status"
+msgstr ""
+
+#: templates/wishlist.php:61
+msgid "Product"
+msgstr ""
+
+#: templates/wishlist.php:75
+msgid "Out of Stock"
+msgstr ""
+
+#: templates/wishlist.php:75
+msgid "In Stock"
+msgstr ""
